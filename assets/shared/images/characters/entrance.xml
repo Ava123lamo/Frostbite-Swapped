@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="entrance.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Freakachu entrance0000" x="0" y="0" width="292" height="636" frameX="-708" frameY="-10" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0001" x="297" y="0" width="286" height="641" frameX="-712" frameY="-5" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0002" x="588" y="0" width="332" height="646" frameX="-666" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0003" x="925" y="0" width="417" height="646" frameX="-581" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0004" x="1347" y="0" width="455" height="646" frameX="-543" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0005" x="1807" y="0" width="486" height="646" frameX="-512" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0006" x="2298" y="0" width="511" height="646" frameX="-487" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0007" x="2814" y="0" width="593" height="646" frameX="-405" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0008" x="2814" y="0" width="593" height="646" frameX="-405" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0009" x="3412" y="0" width="647" height="646" frameX="-351" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0010" x="3412" y="0" width="647" height="646" frameX="-351" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0011" x="0" y="651" width="711" height="646" frameX="-287" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0012" x="716" y="651" width="740" height="647" frameX="-258" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0013" x="1461" y="651" width="771" height="688" frameX="-227" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0014" x="2237" y="651" width="801" height="714" frameX="-197" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0015" x="3043" y="651" width="904" height="691" frameX="-94" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0016" x="0" y="1370" width="923" height="654" frameX="-75" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0017" x="928" y="1370" width="934" height="652" frameX="-64" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0018" x="1867" y="1370" width="934" height="652" frameX="-64" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0019" x="2806" y="1370" width="934" height="652" frameX="-64" frameY="0" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0020" x="0" y="2029" width="503" height="582" frameX="-64" frameY="-70" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0021" x="508" y="2029" width="527" height="626" frameX="-43" frameY="-24" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0022" x="1040" y="2029" width="548" height="607" frameX="-22" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0023" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0024" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0025" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0026" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0027" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0028" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0029" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0030" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0031" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0032" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0033" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0034" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0035" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0036" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0037" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0038" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0039" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0040" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0041" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0042" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0043" x="1593" y="2029" width="551" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0044" x="2149" y="2029" width="547" height="607" frameX="-23" frameY="-43" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0045" x="2701" y="2029" width="551" height="611" frameX="-23" frameY="-39" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0046" x="3257" y="2029" width="512" height="611" frameX="-58" frameY="-39" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0047" x="0" y="2660" width="563" height="640" frameX="-7" frameY="-10" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0048" x="568" y="2660" width="570" height="647" frameX="0" frameY="-3" frameWidth="1000" frameHeight="714"/>
+	<SubTexture name="Freakachu entrance0049" x="568" y="2660" width="570" height="647" frameX="0" frameY="-3" frameWidth="1000" frameHeight="714"/>
+</TextureAtlas>

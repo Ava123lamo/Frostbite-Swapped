@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goldAlive.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Norm Red Idle0000" x="0" y="0" width="289" height="625" frameX="0" frameY="-11" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0001" x="0" y="0" width="289" height="625" frameX="0" frameY="-11" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0002" x="289" y="0" width="288" height="631" frameX="-1" frameY="-5" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0003" x="289" y="0" width="288" height="631" frameX="-1" frameY="-5" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0004" x="577" y="0" width="288" height="634" frameX="-1" frameY="-2" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0005" x="577" y="0" width="288" height="634" frameX="-1" frameY="-2" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0006" x="865" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0007" x="865" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0008" x="1153" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0009" x="1153" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0010" x="1153" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0011" x="1153" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0012" x="1153" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red Idle0013" x="1153" y="0" width="288" height="636" frameX="-1" frameY="0" frameWidth="289" frameHeight="636"/>
+	<SubTexture name="Norm Red UP0000" x="1441" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0001" x="1874" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0002" x="2307" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0003" x="2740" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0004" x="3173" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0005" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0006" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0007" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0008" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0009" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0010" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0011" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0012" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0013" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red UP0014" x="3606" y="0" width="433" height="666"/>
+	<SubTexture name="Norm Red down0000" x="0" y="666" width="287" height="605" frameX="0" frameY="-13" frameWidth="287" frameHeight="618"/>
+	<SubTexture name="Norm Red down0001" x="287" y="666" width="287" height="605" frameX="0" frameY="-13" frameWidth="287" frameHeight="618"/>
+	<SubTexture name="Norm Red down0002" x="574" y="666" width="287" height="615" frameX="0" frameY="-3" frameWidth="287" frameHeight="618"/>
+	<SubTexture name="Norm Red down0003" x="861" y="666" width="287" height="615" frameX="0" frameY="-3" frameWidth="287" frameHeight="618"/>
+	<SubTexture name="Norm Red down0004" x="1148" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0005" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0006" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0007" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0008" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0009" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0010" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0011" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0012" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red down0013" x="1435" y="666" width="287" height="618"/>
+	<SubTexture name="Norm Red left0000" x="1722" y="666" width="301" height="624" frameX="0" frameY="-7" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0001" x="2023" y="666" width="301" height="624" frameX="0" frameY="-7" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0002" x="2324" y="666" width="289" height="630" frameX="-12" frameY="-1" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0003" x="2613" y="666" width="289" height="630" frameX="-12" frameY="-1" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0004" x="2902" y="666" width="292" height="631" frameX="-9" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0005" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0006" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0007" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0008" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0009" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0010" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0011" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0012" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red left0013" x="3194" y="666" width="291" height="631" frameX="-10" frameY="0" frameWidth="301" frameHeight="631"/>
+	<SubTexture name="Norm Red right0000" x="3485" y="666" width="433" height="666"/>
+	<SubTexture name="Norm Red right0001" x="0" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0002" x="433" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0003" x="866" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0004" x="1299" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0005" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0006" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0007" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0008" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0009" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0010" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0011" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0012" x="1732" y="1332" width="433" height="666"/>
+	<SubTexture name="Norm Red right0013" x="1732" y="1332" width="433" height="666"/>
+</TextureAtlas>

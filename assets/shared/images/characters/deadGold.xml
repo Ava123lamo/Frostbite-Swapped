@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deadGold.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DEAD RED IDLE0000" x="0" y="0" width="272" height="637" frameX="-50" frameY="-1" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0001" x="277" y="0" width="272" height="638" frameX="-50" frameY="0" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0002" x="554" y="0" width="281" height="635" frameX="-40" frameY="-3" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0003" x="840" y="0" width="281" height="635" frameX="-40" frameY="-3" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0004" x="1126" y="0" width="274" height="634" frameX="-42" frameY="-4" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0005" x="1405" y="0" width="274" height="634" frameX="-42" frameY="-4" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0006" x="1684" y="0" width="274" height="638" frameX="-31" frameY="0" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0007" x="1963" y="0" width="274" height="638" frameX="-31" frameY="0" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0008" x="2242" y="0" width="277" height="636" frameX="0" frameY="-2" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0009" x="2524" y="0" width="277" height="636" frameX="0" frameY="-2" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0010" x="2806" y="0" width="277" height="637" frameX="-18" frameY="-1" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0011" x="3088" y="0" width="277" height="637" frameX="-18" frameY="-1" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0012" x="3370" y="0" width="276" height="636" frameX="-30" frameY="-2" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED IDLE0013" x="3651" y="0" width="276" height="636" frameX="-30" frameY="-2" frameWidth="322" frameHeight="638"/>
+	<SubTexture name="DEAD RED down0000" x="0" y="643" width="362" height="531" frameX="-18" frameY="-57" frameWidth="396" frameHeight="588"/>
+	<SubTexture name="DEAD RED down0001" x="367" y="643" width="362" height="531" frameX="-18" frameY="-57" frameWidth="396" frameHeight="588"/>
+	<SubTexture name="DEAD RED down0002" x="734" y="643" width="396" height="574" frameX="0" frameY="-14" frameWidth="396" frameHeight="588"/>
+	<SubTexture name="DEAD RED down0003" x="734" y="643" width="396" height="574" frameX="0" frameY="-14" frameWidth="396" frameHeight="588"/>
+	<SubTexture name="DEAD RED down0004" x="1135" y="643" width="396" height="584" frameX="0" frameY="-4" frameWidth="396" frameHeight="588"/>
+	<SubTexture name="DEAD RED down0005" x="1135" y="643" width="396" height="584" frameX="0" frameY="-4" frameWidth="396" frameHeight="588"/>
+	<SubTexture name="DEAD RED down0006" x="1536" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0007" x="1536" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0008" x="1937" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0009" x="1937" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0010" x="1937" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0011" x="1937" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0012" x="1937" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED down0013" x="1937" y="643" width="396" height="588"/>
+	<SubTexture name="DEAD RED left0000" x="2338" y="643" width="396" height="631" frameX="-10" frameY="-2" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0001" x="2338" y="643" width="396" height="631" frameX="-10" frameY="-2" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0002" x="2739" y="643" width="412" height="622" frameX="0" frameY="-11" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0003" x="2739" y="643" width="412" height="622" frameX="0" frameY="-11" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0004" x="3156" y="643" width="410" height="627" frameX="-21" frameY="-6" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0005" x="3571" y="643" width="417" height="627" frameX="-14" frameY="-6" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0006" x="0" y="1279" width="407" height="633" frameX="-31" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0007" x="0" y="1279" width="407" height="633" frameX="-31" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0008" x="412" y="1279" width="398" height="633" frameX="-41" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0009" x="815" y="1279" width="398" height="633" frameX="-41" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0010" x="815" y="1279" width="398" height="633" frameX="-41" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0011" x="815" y="1279" width="398" height="633" frameX="-41" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0012" x="815" y="1279" width="398" height="633" frameX="-41" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED left0013" x="815" y="1279" width="398" height="633" frameX="-41" frameY="0" frameWidth="439" frameHeight="633"/>
+	<SubTexture name="DEAD RED right0000" x="1218" y="1279" width="380" height="608" frameX="-13" frameY="0" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0001" x="1218" y="1279" width="380" height="608" frameX="-13" frameY="0" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0002" x="1603" y="1279" width="354" height="607" frameX="-9" frameY="-1" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0003" x="1603" y="1279" width="354" height="607" frameX="-9" frameY="-1" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0004" x="1962" y="1279" width="359" height="606" frameX="0" frameY="-2" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0005" x="2326" y="1279" width="358" height="606" frameX="0" frameY="-2" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0006" x="2689" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0007" x="2689" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0008" x="3045" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0009" x="3045" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0010" x="3045" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0011" x="3045" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0012" x="3045" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED right0013" x="3045" y="1279" width="351" height="605" frameX="-5" frameY="-3" frameWidth="393" frameHeight="608"/>
+	<SubTexture name="DEAD RED up0000" x="3401" y="1279" width="258" height="692" frameX="-11" frameY="0" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0001" x="3401" y="1279" width="258" height="692" frameX="-11" frameY="0" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0002" x="3664" y="1279" width="269" height="675" frameX="0" frameY="-17" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0003" x="3664" y="1279" width="269" height="675" frameX="0" frameY="-17" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0004" x="0" y="1976" width="270" height="667" frameX="0" frameY="-25" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0005" x="0" y="1976" width="270" height="667" frameX="0" frameY="-25" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0006" x="275" y="1976" width="270" height="665" frameX="0" frameY="-27" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0007" x="275" y="1976" width="270" height="665" frameX="0" frameY="-27" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0008" x="550" y="1976" width="270" height="664" frameX="0" frameY="-28" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0009" x="550" y="1976" width="270" height="664" frameX="0" frameY="-28" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0010" x="550" y="1976" width="270" height="664" frameX="0" frameY="-28" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0011" x="550" y="1976" width="270" height="664" frameX="0" frameY="-28" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0012" x="550" y="1976" width="270" height="664" frameX="0" frameY="-28" frameWidth="270" frameHeight="692"/>
+	<SubTexture name="DEAD RED up0013" x="550" y="1976" width="270" height="664" frameX="0" frameY="-28" frameWidth="270" frameHeight="692"/>
+</TextureAtlas>
