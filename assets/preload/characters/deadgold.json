@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "DEAD RED IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				97,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "DEAD RED left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-76,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "DEAD RED right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DEAD RED down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				39
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "DEAD RED up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadGold",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "gold-dead",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-460,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

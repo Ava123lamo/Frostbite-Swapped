@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Norm Red Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Norm Red left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Norm Red right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-12
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Norm Red down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Norm Red UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goldAlive",
+	"position": [
+		100,
+		0
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		164,
+		102
+	],
+	"camera_position": [
+		-460,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

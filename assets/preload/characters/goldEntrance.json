@@ -1,0 +1,47 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Freakachu entrance"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "entrance",
+			"loop": false,
+			"name": "Freakachu entrance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/entrance",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "gold",
+	"flip_x": false,
+	"healthbar_colors": [
+		242,
+		164,
+		102
+	],
+	"camera_position": [
+		-450,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
