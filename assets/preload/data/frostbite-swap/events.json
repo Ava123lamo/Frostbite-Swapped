@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				4695.65217391304,
+				[
+					[
+						"Play Roar (Frostbite)",
+						"",
+						""
+					]
+				]
+			],
+			[
+				89739.1304347826,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"goldEntrance"
+					],
+					[
+						"Play Animation",
+						"entrance",
+						"Dad"
+					]
+				]
+			],
+			[
+				90260.8695652174,
+				[
+					[
+						"Freakachu Zoom",
+						"Zoom In",
+						""
+					]
+				]
+			],
+			[
+				90782.6086956522,
+				[
+					[
+						"Freakachu Zoom",
+						"Zoom In 2",
+						""
+					]
+				]
+			],
+			[
+				91826.0869565218,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"deadgold"
+					],
+					[
+						"Enable Freakachu",
+						"yes",
+						""
+					],
+					[
+						"Freakachu Zoom",
+						"Zoom Out",
+						""
+					]
+				]
+			],
+			[
+				175304.347826087,
+				[
+					[
+						"Enable Freakachu",
+						"no",
+						""
+					]
+				]
+			]
+		]
+	}
+}
